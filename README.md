@@ -1,4 +1,19 @@
-# JavaScript 進階概念
+<h1 align="center">
+<br>
+  <a href="#"><img src="img/js.png" alt="JavaScript 進階概念" width="200"></a>
+  <br>
+    <br>
+  JavaScript 進階概念
+  <br>
+</h1>
+
+## 簡介
+
+### 這個指南是幫助開發者理清JavaScript中一些奇怪的概念，它是高級JavaScript開發者的必備知識。
+
+> 部分概念來源於@Anthony Alicea
+
+---
 
 ## 執行環境與詞彙環境
 
