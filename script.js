@@ -1,8 +1,13 @@
-// We cannot use 'let' to do like this way, 
-// it will show Uncaught ReferenceError: Cannot access 'a' before initialization
+function a() {
+    b();
+    console.log("I'm a function");
+    let c;
+}
 
-console.log(a);
+function b() {
+    console.log("I'm b function");
+    let d;
+}
 
-var a = "Hello World"; 
-                        
-console.log(a);
+a();
+let d;
