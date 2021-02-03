@@ -30,7 +30,7 @@
 - [單執行緒、同步執行 (Single Threaded, Synchronous Execution)](/Environments/Single_Threaded.md)
 - [函數呼叫與執行堆 (Function Invocation and the Execution Stack)](/Environments/ExecutionStack.md)
 - [函數、環境與變數環境(Functions, Context, and Variable Environments)](/Environments/FCV_Environments.md)
-- [(Functions, Context, and Variable Environments)](/Environments/FCV_Environments.md)
+- [(Functions, Context, and Variable Environments)](/Environments/ScopeChain.md)
 
 
 
