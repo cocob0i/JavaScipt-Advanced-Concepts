@@ -11,7 +11,7 @@
 
 這個指南是幫助開發者理清JavaScript中一些奇怪的概念，它是高級JavaScript開發者的必備知識。
 
-> 部分概念來源於@Anthony Alicea
+> 概念來源於@Anthony Alicea
 
 ---
 
@@ -31,7 +31,7 @@
 - [函數呼叫與執行堆 (Function Invocation and the Execution Stack)](/Environments/ExecutionStack.md)
 - [函數、環境與變數環境(Functions, Context, and Variable Environments)](/Environments/FCV_Environments.md)
 - [範圍鏈(Functions, Context, and Variable Environments)](/Environments/ScopeChain.md)
-
+- [關於非同步回呼(What About Asynchronous Callbacks?)](/Environments/Asynchronous.md)
 
 
 
