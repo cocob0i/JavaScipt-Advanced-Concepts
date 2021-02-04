@@ -11,7 +11,7 @@
 
 這個指南是幫助開發者理清JavaScript中一些奇怪的概念，它是高級JavaScript開發者的必備知識。
 
-> 概念來源於@Anthony Alicea
+> 部分概念與圖片來源於@Anthony Alicea
 
 ---
 
