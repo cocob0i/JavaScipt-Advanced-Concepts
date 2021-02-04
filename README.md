@@ -3,7 +3,7 @@
   <a href="#"><img src="img/js.png" alt="JavaScript 進階概念" width="200"></a>
   <br>
     <br>
-  JavaScript 進階概念
+  克服JavaScript的進階與奇怪概念
   <br>
 </h1>
 
